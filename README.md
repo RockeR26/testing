@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/parth-pipermintwala-403a82367/">
     <img src="https://cdnl.iconscout.com/lottie/premium/thumb/linkedin-6875061-5607637.gif" width="100" alt="LinkedIn" />
+    LinkedIn
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/ParthPipermintwala">
     <img src="https://nate-wilcox.github.io/images/github.gif" width="100" alt="GitHub"/>
@@ -11,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/parth-pipermintwala-403a82367/"><strong>LinkedIn</strong></a>
+  <a href="https://www.linkedin.com/in/parth-pipermintwala-403a82367/"><strong></strong></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ParthPipermintwala"><strong>GitHub</strong></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
