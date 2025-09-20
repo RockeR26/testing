@@ -13,3 +13,11 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/parth-pipermintwala-403a82367/"><strong>LinkedIn</strong></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ParthPipermintwala"><strong>GitHub</strong></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:parthpipermintwala9@gmail.com"><strong>Email</strong></a>
+</p>
+
