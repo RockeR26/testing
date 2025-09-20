@@ -7,8 +7,8 @@
     <img src="https://nate-wilcox.github.io/images/github.gif" width="100" alt="GitHub"/>
     GitHub
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:parthpipermintwala9@gmail.com">
-    <img src="https://assets-v2.lottiefiles.com/a/03b87f8a-1175-11ee-bace-bf75cb96e8fe/3z50CzNh65.gif" width="100" alt="Email"/>
+  &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/ParthPipermintwala">
+    <img src="https://nate-wilcox.github.io/images/github.gif" width="100" alt="GitHub"/>
     Email
   </a>
 </p>
